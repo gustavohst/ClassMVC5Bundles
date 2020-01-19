@@ -3,3 +3,8 @@
 ################################################################################
 
 /Bundles/.vs/Bundles/v16
+/Bundles/Bundles/bin
+/Bundles/Bundles/obj/Debug/Bundles.csproj.CopyComplete
+/Bundles/Bundles/obj/Debug/Bundles.csproj.FileListAbsolute.txt
+/Bundles/Bundles/obj/Debug/Bundles.dll
+/Bundles/Bundles/obj/Debug/Bundles.pdb
